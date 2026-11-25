@@ -6,9 +6,9 @@ Research reports and courses on AI agents, current as of November 25, 2026. Each
 
 | Report | URL |
 |---|---|
-| **Agents with their own computers:** Meta Muse, OpenAI dots and Grok Bot, from features to high- and low-level design | <https://coast-guide.github.io/jhank/agents-with-their-own-computers.html> |
-| **How agents remember:** a course on AI agent memory, from first principles to the frontier | <https://coast-guide.github.io/jhank/how-agents-remember.html> |
-| **The software factory:** a course on building software with AI agents, from first principles to the frontier | <https://coast-guide.github.io/jhank/the-software-factory.html> |
+| **Agents with their own computers:** Meta Muse, OpenAI dots and Grok Bot, from features to high- and low-level design | <https://coast-guide.github.io/jhank/agents-with-their-own-computers> |
+| **How agents remember:** a course on AI agent memory, from first principles to the frontier | <https://coast-guide.github.io/jhank/how-agents-remember> |
+| **The software factory:** a course on building software with AI agents, from first principles to the frontier | <https://coast-guide.github.io/jhank/the-software-factory> |
 
 The pages are served by GitHub Pages from the `main` branch, so a change merged into `main` goes live a minute or two later.
 
